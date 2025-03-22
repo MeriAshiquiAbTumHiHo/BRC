@@ -77,4 +77,4 @@ def main():
         print(f"Error writing to 'output.txt': {e}")
 
 if __name__ == "__main__":
-    main()
+    main() #main
